@@ -1,0 +1,1 @@
+En este repositorio, se incluye  el programa off line en Python, el programa con todos los modulos para AWS y una carpeta con los diferentes modulos por separado para ser usados de forma independiente, además de un S3 inicial para el uso del programa AWS con todos los modulos.
